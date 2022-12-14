@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Sou estudante de Análise e Desenvolvimento de Sistemas. Venho focando no desenvolvimento de software móvel, principalmente em React-Native e Swift, de forma autodidata. 
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Joaomts#9171) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nascimento.jms) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Nascimento.jms) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nascimento-jms) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Joaomts1) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nascimento_jms) 
 
 # 💻 Tech Stack:
