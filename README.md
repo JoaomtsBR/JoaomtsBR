@@ -12,7 +12,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Venho focando no desenv
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JoaomtsBR&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaomtsBR&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
