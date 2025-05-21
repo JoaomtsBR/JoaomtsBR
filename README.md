@@ -1,7 +1,7 @@
 ![Mastermind, Pixel Jeff](https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif)
 
 # 💫 Sobre mim:
-Sou estudante de Análise e Desenvolvimento de Sistemas. Venho focando no desenvolvimento de software móvel, principalmente em React-Native e Swift, de forma autodidata. 
+Especialista em Desenvolvimento Mobile pela PUC-Minas | Dev Jr na Companhia Municipal de Transportes Coletivos
 
 
 ## 🌐 Social:
